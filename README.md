@@ -1,2 +1,1 @@
-# SqlServer-Querys
- 
+# SQL Server - Example Querys
